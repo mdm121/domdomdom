@@ -1,0 +1,29 @@
+div.box {
+    display: flex;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border: 2px black solid;
+    margin: 3em;
+    justify-content: center;
+    align-items: center;
+    float: left;
+
+}
+
+.box:hover {
+
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+
+
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5em;
+    
+}
