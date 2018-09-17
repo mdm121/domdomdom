@@ -67,23 +67,10 @@ document.addEventListener("DOMContentLoaded", function() {
                     };
                 };
 
-                
-
-
             };
 
         });
 
-
-
     });
-
-
-
-
-  
-
-
-
 
 });
